@@ -1,2 +1,3 @@
-# Dow-Jones-Index-case-study
-Used weekly stock data to predict future stock values with support vector regression, linear regression, and decision trees. 
+### This repository contains the necesary files to complete the tasks laid out in the Dow_Jones_Index_Case_Study.pdf
+
+### Also included are the markdown and report files put together by my group and I when we completed this in Spring 2025.
